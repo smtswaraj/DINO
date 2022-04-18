@@ -1,0 +1,16 @@
+import pyautogui # pip install pyautogui
+while True:
+    pyautogui.keyDown('s')
+    pyautogui.keyDown('w')
+    pyautogui.keyDown('a')
+    pyautogui.keyDown('r')
+    pyautogui.keyDown('a')
+    pyautogui.keyDown('j')
+    pyautogui.keyDown('space')
+    pyautogui.keyDown('N')
+    pyautogui.keyDown('a')
+    pyautogui.keyDown('y')
+    pyautogui.keyDown('a')
+    pyautogui.keyDown('k')
+    pyautogui.keyDown(',')
+    pyautogui.keyDown('space')
